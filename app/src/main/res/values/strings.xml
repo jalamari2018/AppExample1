@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppExample</string>
+    <string name="button">Button</string>
+    <string name="welcome_to_android_studio_this_is_really_fun_to_do_and_we_hope_that_we_are_going_to_have_a_good_time_here">Welcome to Android Studio this is really fun to do, and we hope that we are going to have a good time here.</string>
+</resources>
